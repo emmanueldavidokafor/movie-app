@@ -24,9 +24,9 @@ export default function Featured({type}) {
                 </select>
             </div>
         )}
-        <img src='https://images.pexels.com/photos/157543/pexels-photo-157543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='' />
+        <img src='https://images.pexels.com/photos/275977/pexels-photo-275977.jpeg?auto=compress&cs=tinysrgb&w=600' alt='' />
         <div className='info'>
-            <img src='https://img.freepik.com/premium-vector/m-matrix-logo-template-design_8163-8.jpg?w=740' alt='' />
+            <img src='https://images.pexels.com/photos/590059/pexels-photo-590059.jpeg?auto=compress&cs=tinysrgb&w=600' alt='' />
             <span className='desc'>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo eos, sint blanditiis commodi quis reiciendis minima adipisci ducimus corporis, numquam expedita quo est obcaecati ab dolore cum, tenetur repellat ipsa.  
             </span>
